@@ -5,7 +5,8 @@ Neste projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CS
 
 https://github.com/Sandra23U
 
-Digital Innovation on
+Digital Innovation one
+
 JavaScript Game Developer
 
 Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carreira em desenvolvimento front-end e se transformar em um dev de alto nível.
