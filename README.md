@@ -13,7 +13,7 @@ JavaScript Game Developer
 Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carreira em desenvolvimento front-end e se transformar em um dev de alto nível.
 
 Jogo_Resgate
-
+#Jogo_Resgate
 
 
 ![Jogo_Resgate](https://user-images.githubusercontent.com/66983974/118214822-ddfd2f80-b446-11eb-82c8-c0897be7b706.png)
