@@ -1,3 +1,4 @@
+![Jogo_Nave](https://user-images.githubusercontent.com/66983974/118215072-44824d80-b447-11eb-93e6-4aaed8017640.png)
 # Jogo_Naves                       
 
 Neste projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim utilizando a didática passo a passo em seu desenvolvimento.
