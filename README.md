@@ -1,19 +1,44 @@
-![Jogo_Nave](https://user-images.githubusercontent.com/66983974/118215072-44824d80-b447-11eb-93e6-4aaed8017640.png)
-# Jogo_Naves                       
+<!-- Badges session -->
+<p align="center">  
+  <!-- languages -->
+  <img src="https://img.shields.io/github/languages/count/pleiterson/game-de-naves-dio?style=social" alt="Linguagens utilizadas">
+  <!-- repo size -->
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/game-de-naves-dio?style=social" alt="Tamanho do repositório">
+  <!-- last commit -->
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/game-de-naves-dio?style=social" alt="Último commit">
+  <!-- licence MIT -->
+  <img src="https://img.shields.io/github/license/Pleiterson/game-de-naves-dio?style=social" alt="Licença MIT">
+</p>
 
-Neste projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim utilizando a didática passo a passo em seu desenvolvimento.
+<!--Banner session-->
+<p align="center">
+  <img src="./src/assets/readme/banner.png" alt="DIO" title="Digital Innovation One">
+</p>
 
+<!--About session-->
+<h1 align="center">Construindo o seu primeiro jogo de naves<br>Digital Innovation One</h1>
 
-https://github.com/Sandra23U
+<img src="./src/assets/readme/badge.png" title="Badge" width="70" height="70">
 
-Digital Innovation one
+Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-JavaScript Game Developer
+Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de desenvolvimento compatível com os diversos dispositivos móveis no mercado e também com os diferentes navegadores (browsers). Utilizando o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, é possível desenvolver jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser.
 
-Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carreira em desenvolvimento front-end e se transformar em um dev de alto nível.
+- [Projeto desenvolvido](https://game-resgate.vercel.app/)
 
+<p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo de Naves - DIO"></p>
 
-#Jogo_Resgate
+<h3>👨‍💻 Tecnologias utilizadas</h3>
 
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [jQuery](https://jquery.com/)
 
-![Jogo_Resgate](https://user-images.githubusercontent.com/66983974/118214822-ddfd2f80-b446-11eb-82c8-c0897be7b706.png)
+<!--License session-->
+<h3>📝 Licença</h3>
+
+- Este projeto está sob a licença [MIT](./LICENSE).
+
+<!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Sandra de Oliveira Souza</a></h4>
