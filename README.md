@@ -4,13 +4,13 @@ Neste projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CS
 <!-- Badges session -->
 <p align="center">  
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/pleiterson/game-de-naves-dio?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/Sandra/clone_primeiro_jogo_naves?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/Pleiterson/game-de-naves-dio?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Sandra/clone_primeiro_jogo_naves?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/game-de-naves-dio?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Sandra/clone_primeiro_jogo_naves?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/game-de-naves-dio?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Sandra/clone_primeiro_jogo_naves?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
